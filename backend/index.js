@@ -11,7 +11,7 @@ const getAPI = async () => {
       "https://api.apilayer.com/exchangerates_data/latest?symbols=MYR%2CBRL%2CCNY%2CINR%2CPKR&base=USD",
       {
         headers: {
-          apikey: "HlQvVhszyAPeBfIek8mw0xV5QkMPNKZf",
+          apikey: "TN5LlJxm8fovSTwv6xtRyGnCcKGpSbkc",
         },
       }
     );
